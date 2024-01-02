@@ -1,6 +1,6 @@
-Car differential
+Instructions for 3D printing
 
-To 3D print any object:
+Differential, Steeering, Support
 
 1. Duplicate each object then move clone to 'Printable' collection
 2. Hide original object(s), make sure clone object in Printable collection is visible
